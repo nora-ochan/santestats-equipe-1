@@ -1,0 +1,41 @@
+id_patient,sexe,age,poids_kg,taille_cm,glycemie,unite_glycemie,service
+P001,M,75,127.4,192,5.8,mmol/L,Médecine interne
+P002,M,85,72.3,192,92,mg/dL,Néphrologie
+P003,F,41,107.1,172,168,mg/dL,Cardiologie
+P004,M,52,65.9,167,7.6,mmol/L,Néphrologie
+P005,F,74,59.4,171,4.3,mmol/L,Endocrinologie
+P006,M,72,74.6,184,79,mg/dL,Médecine interne
+P007,M,70,82.4,185,10.4,mmol/L,Néphrologie
+P008,F,80,65.0,171,85,mg/dL,Néphrologie
+P009,F,74,73.9,156,10.7,mmol/L,Néphrologie
+P010,M,33,92.0,188,81,mg/dL,Endocrinologie
+P011,F,80,104.6,164,1.1,g/L,Médecine interne
+P012,F,56,40.7,152,103,mg/dL,Néphrologie
+P013,M,31,106.9,192,0.93,g/L,Cardiologie
+P014,F,57,82.9,170,101,mg/dL,Néphrologie
+P015,F,69,104.2,173,90,mg/dL,Cardiologie
+P016,F,65,63.7,153,1.11,g/L,Néphrologie
+P017,F,69,88.3,167,0.73,g/L,Cardiologie
+P018,F,66,55.6,157,170,mg/dL,Néphrologie
+P019,M,29,102.4,190,81,mg/dL,Cardiologie
+P020,M,55,106.3,177,219,mg/dL,Médecine interne
+P021,M,44,74.0,168,92,mg/dL,Médecine interne
+P022,F,38,94.4,158,76,mg/dL,Néphrologie
+P023,M,58,81.1,176,223,mg/dL,Cardiologie
+P024,F,78,86.4,163,98,mg/dL,Cardiologie
+P025,F,69,64.2,171,107,mg/dL,Cardiologie
+P026,M,41,91.3,181,78,mg/dL,Médecine interne
+P027,F,34,76.3,165,75,mg/dL,Médecine interne
+P028,F,64,127.2,172,4.8,mmol/L,Endocrinologie
+P029,M,44,85.9,192,84,mg/dL,Endocrinologie
+P030,M,81,71.1,190,8.6,mmol/L,Endocrinologie
+P031,F,39,56.5,155,78,mg/dL,Médecine interne
+P032,M,53,144.4,187,102,mg/dL,Endocrinologie
+P033,M,62,98.0,173,5.2,mmol/L,Endocrinologie
+P034,M,56,102.3,190,114,mg/dL,Néphrologie
+P035,M,46,64.7,189,1.05,g/L,Endocrinologie
+P036,M,45,99.3,185,1.16,g/L,Endocrinologie
+P037,M,50,77.9,187,6.3,mmol/L,Médecine interne
+P038,F,27,99.7,169,139,mg/dL,Endocrinologie
+P039,F,32,51.5,153,99,mg/dL,Médecine interne
+P040,F,61,69.5,165,5.1,mmol/L,Néphrologie
