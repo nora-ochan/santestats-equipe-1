@@ -5,6 +5,7 @@
 FACTEURS_VERS_MG_DL = {
     "mg/dL": 1.0,
     "mmol/L": 18.016,
+    "g/L": 100.0,
 }
 
 

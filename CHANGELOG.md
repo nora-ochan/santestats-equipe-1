@@ -7,6 +7,8 @@ numéros de version selon le [versionnage sémantique](https://semver.org/lang/f
 
 ### Ajouté
 
+- Prise en charge de la conversion des glycémies exprimées en g/L vers mg/dL.
+
 ## [0.1.0] - 2026-11-02
 
 ### Ajouté
